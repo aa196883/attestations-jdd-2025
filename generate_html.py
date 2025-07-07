@@ -13,6 +13,10 @@ sections = {
     "attestation_presentation": {
         "fr": "Présentations",
         "en": "Presentations"
+    },
+    "attestation_organisation": {
+        "fr": "Organisation",
+        "en": "Organization"
     }
 }
 
